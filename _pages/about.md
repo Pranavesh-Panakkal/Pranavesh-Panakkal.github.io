@@ -9,10 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    # <p>Ryon 219</p>
-    # <p>6100 Main St.</p>
-    # <p>Houston, TX 77005</p>
+  address:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
