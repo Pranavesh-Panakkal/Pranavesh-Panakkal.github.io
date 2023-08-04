@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Padgett":
+  - firstname: ["Jamie", "J.", "J. E.", "Jamie Ellen", "Jamie E."]
+    url: https://padgett.rice.edu/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"King":
+  - firstname: ["Danielle", "D.", "D. D.", "Danielle D."]
+    url: http://workingresiliencelab.rice.edu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Fattoracci":
+  - firstname: ["Elisa", "Elisa S. M."]
+    url: http://workingresiliencelab.rice.edu/research-team/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
