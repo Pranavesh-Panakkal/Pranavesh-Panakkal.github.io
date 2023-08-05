@@ -226,6 +226,13 @@
           </div>
           {%- endif -%}
 
+          {% if entry.tldr -%}
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>{{ entry.tldr }}</p>
+          </div>
+          {%- endif -%}
+
           {% if entry.bibtex_show -%}
           <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
