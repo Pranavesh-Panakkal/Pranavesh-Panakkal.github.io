@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://padgett.rice.edu/people/mr-pranavesh-panakkal'>Rice University</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
