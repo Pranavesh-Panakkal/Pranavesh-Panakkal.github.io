@@ -4,9 +4,9 @@
     - name: Full Name
       value: Pranavesh Panakkal
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th May 1989
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
