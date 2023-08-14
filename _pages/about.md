@@ -21,4 +21,4 @@ Pranavesh Panakkal is a Postdoctoral Researcher in the Department of Civil and E
 
 On situational awareness, he develops algorithms and tools to predict and sense the performance of urban infrastructure systems to stressors such as natural disasters to inform emergency response and recovery. An example application would be real-time sensing of flood impacts on roadways to inform emergency response navigation.
 
-His work on smart resilience aims to leverage diverse data sources, physics-based data-informed algorithms, and equity-aware models to predict, sense, and respond to acute stressors such as natural disasters. An example application would include digital twins that can aid in informing preparedness and risk-informed decision-making during flood disasters. 
+His work on smart resilience aims to leverage diverse data sources, physics-based data-informed algorithms, and equity-aware models to predict, sense, and respond to acute stressors to enhance community resilience. An example application would include digital twins that can aid in informing preparedness and risk-informed decision-making during flood disasters.
