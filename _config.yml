@@ -409,7 +409,7 @@ medium_zoom:
 
 jekyll_get_json:
   - data: resume
-    json: "https://alshedivat.github.io/al-folio/assets/json/resume.json"
+    json: "assets/json/resume.json"
 jsonresume:
   - basics
   - work
