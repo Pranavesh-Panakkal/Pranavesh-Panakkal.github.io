@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Pranavesh Panakkal
-    - name: Date of Birth
-      value: 24th May 1989
-    - name: Languages
-      value: English
+
+- title: Research Interests
+  type: text
+  Situational awareness, digital twins, smart resilience, equity, 
 
 - title: Education
   type: time_table
