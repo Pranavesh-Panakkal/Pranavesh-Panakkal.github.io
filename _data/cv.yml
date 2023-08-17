@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Pranavesh Panakkal
-
-- title: Research Interests
-  type: list
-  Situational awareness, digital twins, smart resilience, equity, 
+    - name: Background
+      value: Situational Awareness, Structural Engineering, Civil Engineering
+    - name: Research Interests
+      value: Digital Twins, Smart Resilience, Equity, Risk Assessment, Smart and Connected Cities, Machine Learning, and Deep Learning. 
 
 - title: Education
   type: time_table
