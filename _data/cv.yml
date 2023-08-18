@@ -15,16 +15,15 @@
       institution: Rice University, Houston, Texas, US
       year: 2022
       description:
-        - Situational awareness frameworks for real-time sensing of flood impacts on road transportation networks.
-        - Proposed methods to sense real-time flood impacts on roads to facilitate safe and efficient mobility.
-        - Conceptualized, developed, validated, and deployed reliable situational awareness tools.
+        - Conceptualized, developed, validated, and deployed situational awareness frameworks for real-time sensing of flood impacts on road transportation networks.
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master of Technology in Structural Engineering
+      institution: Indian Institute of Technoloyg, Bombay, India
+      year: 2014
+
+    - title: Bachelor of Technology in Civil Engineering
+      institution: Government Engineering College, Kozhikode, India
+      year: 2014
 
 - title: Experience
   type: time_table
